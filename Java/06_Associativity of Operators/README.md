@@ -24,7 +24,7 @@ Associativity determines the direction in which operators of the same precedence
 | 6          | `^`                                       | Bitwise exclusive OR                       | Left to Right        |
 | 5          | `|`                                       | Bitwise inclusive OR                       | Left to Right        |
 | 4          | `&&`                                      | Logical AND                                | Left to Right        |
-| 3          | `||`                                      | Logical OR                                 | Left to Right        |
+| 3          | `\|\|`                                    | Logical OR                                 | Left to Right        |
 | 2          | `? :`                                     | Ternary conditional                        | Right to Left        |
 | 1          | `=` `+=` `-=` `*=` `/=` `%=`              | Assignment and compound assignments        | Right to Left        |
 

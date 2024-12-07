@@ -22,7 +22,7 @@ Associativity determines the direction in which operators of the same precedence
 | 8          | `==` `!=`                                 | Relational is equal to, Relational is not equal to | Left to Right |
 | 7          | `&`                                       | Bitwise AND                                | Left to Right        |
 | 6          | `^`                                       | Bitwise exclusive OR                       | Left to Right        |
-| 5          | `|`                                       | Bitwise inclusive OR                       | Left to Right        |
+| 5          | `\|`                                      | Bitwise inclusive OR                       | Left to Right        |
 | 4          | `&&`                                      | Logical AND                                | Left to Right        |
 | 3          | `\|\|`                                    | Logical OR                                 | Left to Right        |
 | 2          | `? :`                                     | Ternary conditional                        | Right to Left        |

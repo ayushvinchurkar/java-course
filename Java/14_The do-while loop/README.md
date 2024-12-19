@@ -16,6 +16,21 @@ The **do-while loop** is similar to a `while` loop except for the fact that it i
 - **`do-while` Loop:**
   - The code inside the loop is executed at least once, even if the condition is false.
   - The condition is checked after executing the code.
+ 
+# Flow of a Loop
+
+The flow of a loop can be understood with the following steps:
+
+| Step                          | Description                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| **Start**                     | The loop starts execution.                                                 |
+| **Code inside the body**      | Executes the code block inside the loop body.                              |
+| **Condition**                 | Checks the condition. If `true`, it goes back to execute the loop body again. |
+| **Repeat**                    | The loop continues as long as the condition is `true`.                     |
+| **Stop**                      | The loop terminates when the condition evaluates to `false`.               |
+
+This table summarizes the execution process of a generic loop structure.
+
 
 ### Example:
 

@@ -45,4 +45,3 @@ This table represents the sequence of execution and conditions for a `for` loop 
 for (int i = 7; i != 0; i--) {
     System.out.println(i);
 }
-

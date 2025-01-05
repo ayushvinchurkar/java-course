@@ -52,4 +52,3 @@ Consider the expression `a + b * c`.
 - If associativity comes into play (e.g., `a - b + c`), both `-` and `+` have the same precedence, and associativity (L to R) determines the execution order.
 
 Use this table to clarify how expressions are evaluated in Java programs!
-
